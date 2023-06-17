@@ -120,13 +120,11 @@ permalink: /schedule/
 
              <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
 
-                <h1>neuroscience seminar</h1>
+                <h1>Perception and Action Seminar</h1>
                 <br>
                 <br>
-                <p>Date: Wednesday, July 13</p>
-                <p>Time: 12PM-1:30PM PDT</p>
-                <p><a href="https://www.youtube.com/watch?v=UoBZp4hDY-U&list=PL2_Vc3j_d7HPHojt9q2pP8A3AM_pIGy7C&index=3" style="position:relative; display:block">Link to recordings</a></p>
-
+                <p>Date: July, coming soon.</p>
+                <p>Time: Coming soon</p>    
                 </div>
 
 
@@ -134,51 +132,82 @@ permalink: /schedule/
 
                 <h2>speakers</h2>
 
-                <a href="https://brainbridgelab.uchicago.edu/people/" style="position:relative; display:block">Wilma Bainbridge<strong> (Chair)</strong></a>
-                University of Chicago
-                <img src="https://brainbridgelab.uchicago.edu/files/2019/04/bainbridgeheadshot-7.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                <a href="https://k-r-allen.github.io/" style="position:relative; display:block">Kelsey Allen</a>
+                DeepMind
+                <img src="https://k-r-allen.github.io/images/kelseyallen.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                 <br>
 
-                 <a href="https://www.thelamplab.ca/lab-members"  style="position:relative; display:block">Jeffrey Wammes<strong> (Speaker)</strong></a>
-                Queen's University
-                <img src="https://pbs.twimg.com/profile_images/1177249919209369601/Othm4KHn_400x400.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                 <a href="https://neuroscience.stanford.edu/people/daniel-bear"  style="position:relative; display:block">Daniel Bear</strong></a>
+                Stanford University
+                <img src="https://neuroscience.stanford.edu/sites/default/files/styles/large-square/public/dbear_wtni.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
 
+                 <a href="https://www.psych.ucla.edu/faculty-page/hongjing/"  style="position:relative; display:block">Hongjing Lu</strong></a>
+                UCLA
+                <img src="https://www.psych.ucla.edu/wp-content/uploads/hongjing.picture.IMG_7671.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
+                 <br>
 
-
-                <a href="http://www.mrc-cbu.cam.ac.uk/people/Matt.Lambon-Ralph/" style="position:relative; display:block">Matt Lambon-Ralph<strong> (Speaker)</strong></a>
-                University of Cambridge
-                <img src="http://www.mrc-cbu.cam.ac.uk/wp-content/uploads/formidable/matt.lambon-ralph.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-
+                <a href="https://markkho.github.io/" style="position:relative; display:block"Mark Ho</strong></a>
+                NYU
+                <img src="https://markkho.github.io/images/markkho.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 </div>
-
-
-
-
-
-
             </div>
         </div>
 
+        <div class="section">
+            <div class="bead"> </div>
+            <div class="content">
+
+             <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
+
+                <h1>Memory Seminar</h1>
+                <br>
+                <br>
+                <p>Date: July, coming soon.</p>
+                <p>Time: Coming soon</p>    
+                </div>
 
 
+                <div class = "cellims" style="width:45%;float:right;overflow:auto">
 
+                <h2>speakers</h2>
 
+                <a href="http://www.chrisbaldassano.com/" style="position:relative; display:block">Chris Baldassano</a>
+                DeepMind
+                <img src="https://psychology.columbia.edu/sites/default/files/styles/cu_crop/public/content/unnamed.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+
+                <br>
+
+                 <a href="https://annaleshinskaya.com/"  style="position:relative; display:block">Anna Leshinskaya</strong></a>
+                UC Davis
+                <img src="https://annaleshinskaya.com/images/anna_headshot_02.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+
+                 <br>
+
+                 <a href="https://sites.google.com/view/alexatompary"  style="position:relative; display:block">Alexa Tompary</strong></a>
+                Drexel
+                <img src="../assets/custom_images/Tompary.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+
+                 <br>
+
+                <a href="https://www.jcrwhittington.com/" style="position:relative; display:block"James Whittington</strong></a>
+                Stanford, Oxford
+                <img src="https://localist-images.azureedge.net/photos/41297553049693/square_300@2x/f2bc86c04960a57b3e7b1edb37e4e566eaf09e05.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                </div>
+            </div>
+        </div>
 
 
 
      <div class="section">
             <div class="bead"> </div>
             <div class="content">
-            <h2> CogSci 2022</h2>
-            <p>Date: July 27th, 08:30 – 16:30 EDT</p>
-            <p>Toronto, Canada</p>
-
-
-
+            <h2> CogSci 2023</h2>
+            <p>Date: July 25th</p>
+            <p>Sydney, Australia</p>
 
                 </div>
 
