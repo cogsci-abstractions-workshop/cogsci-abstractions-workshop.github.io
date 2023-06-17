@@ -46,7 +46,7 @@ permalink: /schedule/
                 <img src="../assets/custom_images/Tavares.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 
                 <br>
-                <a href="https://elc-lab-ucsd.com/" style="position:relative; display:block">Caren Walker</strong> </a> UCSD
+                <a href="https://elc-lab-ucsd.com/" style="position:relative; display:block">Caren Walker</a> UCSD
                 <img src="../assets/custom_images/Walker.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 </div>
             </div>
@@ -78,7 +78,7 @@ permalink: /schedule/
 
                 <h2>speakers</h2>
 
-                <a href="https://www.mit.edu/~jda/" style="position:relative; display:block">Jacob Andreas</strong> </a>
+                <a href="https://www.mit.edu/~jda/" style="position:relative; display:block">Jacob Andreas</a>
                 MIT
                 <br>
                 <img src="https://www.mit.edu/~jda/figs/head_small.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
