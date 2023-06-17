@@ -46,7 +46,9 @@ permalink: /schedule/
                 <img src="../assets/custom_images/Tavares.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 
                 <br>
-                <a href="https://elc-lab-ucsd.com/" style="position:relative; display:block">Caren Walker</a> UCSD
+                <a href="https://elc-lab-ucsd.com/" style="position:relative; display:block">Caren Walker</a> 
+                UCSD
+                <br>
                 <img src="../assets/custom_images/Walker.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 </div>
             </div>
@@ -66,7 +68,7 @@ permalink: /schedule/
 
                 <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
 
-                <h1>Language Seminar</h1>
+                <h1>Language</h1>
                 <br>
                 <br>
                 <p>Date: July, coming soon.</p>
@@ -87,6 +89,7 @@ permalink: /schedule/
 
                  <a href="https://abcarstensen.com/" style="position:relative; display:block">Alexandra Cartensen</a>
                  UCSD
+                 <br>
                 <img src="https://abcarstensen.github.io/images/profile.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
@@ -94,6 +97,7 @@ permalink: /schedule/
 
                 <a href="https://rdhawkins.com/" style="position:relative; display:block">Robert Hawkins</a>
                 Princeton
+                <br>
                 <img src="https://rxdhawkins.files.wordpress.com/2019/12/2efa8952-50ee-4bb5-8f5f-f3eb14752dfe_1_201_a-e1575951441133.jpeg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
@@ -120,7 +124,7 @@ permalink: /schedule/
 
              <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
 
-                <h1>Perception and Action Seminar</h1>
+                <h1>Perception and Action</h1>
                 <br>
                 <br>
                 <p>Date: July, coming soon.</p>
@@ -134,24 +138,28 @@ permalink: /schedule/
 
                 <a href="https://k-r-allen.github.io/" style="position:relative; display:block">Kelsey Allen</a>
                 DeepMind
+                <br>
                 <img src="https://k-r-allen.github.io/images/kelseyallen.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                 <br>
 
-                 <a href="https://neuroscience.stanford.edu/people/daniel-bear"  style="position:relative; display:block">Daniel Bear</strong></a>
+                 <a href="https://neuroscience.stanford.edu/people/daniel-bear"  style="position:relative; display:block">Daniel Bear</a>
                 Stanford University
+                <br>
                 <img src="https://neuroscience.stanford.edu/sites/default/files/styles/large-square/public/dbear_wtni.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
 
                  <a href="https://www.psych.ucla.edu/faculty-page/hongjing/"  style="position:relative; display:block">Hongjing Lu</strong></a>
                 UCLA
+                <br>
                 <img src="https://www.psych.ucla.edu/wp-content/uploads/hongjing.picture.IMG_7671.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
 
                 <a href="https://markkho.github.io/" style="position:relative; display:block"Mark Ho</strong></a>
                 NYU
+                <br>
                 <img src="https://markkho.github.io/images/markkho.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 </div>
             </div>
@@ -177,24 +185,28 @@ permalink: /schedule/
 
                 <a href="http://www.chrisbaldassano.com/" style="position:relative; display:block">Chris Baldassano</a>
                 DeepMind
+                <br>
                 <img src="https://psychology.columbia.edu/sites/default/files/styles/cu_crop/public/content/unnamed.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                 <br>
 
                  <a href="https://annaleshinskaya.com/"  style="position:relative; display:block">Anna Leshinskaya</strong></a>
                 UC Davis
+                <br>
                 <img src="https://annaleshinskaya.com/images/anna_headshot_02.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
 
                  <a href="https://sites.google.com/view/alexatompary"  style="position:relative; display:block">Alexa Tompary</strong></a>
                 Drexel
+                <br>
                 <img src="../assets/custom_images/Tompary.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
 
                 <a href="https://www.jcrwhittington.com/" style="position:relative; display:block"James Whittington</strong></a>
                 Stanford, Oxford
+                <br>
                 <img src="https://localist-images.azureedge.net/photos/41297553049693/square_300@2x/f2bc86c04960a57b3e7b1edb37e4e566eaf09e05.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 </div>
             </div>
