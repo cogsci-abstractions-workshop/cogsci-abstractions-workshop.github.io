@@ -80,7 +80,7 @@ permalink: /schedule/
                  <a href="https://abcarstensen.com/" style="position:relative; display:block">Alexandra Cartensen</a>
                  UCSD
                  <br>
-                <img src="https://abcarstensen.github.io/images/profile.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                <img src="../assets/custom_images/cartensen.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
 
@@ -123,7 +123,7 @@ permalink: /schedule/
                 <a href="https://k-r-allen.github.io/" style="position:relative; display:block">Kelsey Allen</a>
                 DeepMind
                 <br>
-                <img src="https://k-r-allen.github.io/images/kelseyallen.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                <img src="../assets/custom_images/allen.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                 <br>
 
@@ -177,14 +177,14 @@ permalink: /schedule/
                  <a href="https://annaleshinskaya.com/"  style="position:relative; display:block">Anna Leshinskaya</a>
                 UC Davis
                 <br>
-                <img src="https://annaleshinskaya.com/images/anna_headshot_02.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                <img src="../assets/custom_images/Leshinskaya.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
 
                  <a href="https://sites.google.com/view/alexatompary"  style="position:relative; display:block">Alexa Tompary</a>
                 Drexel
                 <br>
-                <img src="../assets/custom_images/Tompary.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                <img src="../assets/custom_images/tompary.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
 
