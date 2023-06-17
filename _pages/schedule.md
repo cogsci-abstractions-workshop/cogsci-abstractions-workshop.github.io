@@ -29,7 +29,7 @@ permalink: /schedule/
             <div class="bead"> </div>
             <div class="content">
             <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
-                <h1>Causal Abstractions</h1>
+                <h1>casual abstractions seminar</h1>
                 <br>
                 <br>
                 <p>Date: July, coming soon.</p>
@@ -55,41 +55,12 @@ permalink: /schedule/
             </div>
         </div>
 
-        <div class="section">
-            <div class="bead"> </div>
-            <div class="content">
-            <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
-                <h1>Language</h1>
-                <br>
-                <br>
-                <p>Date: July, coming soon.</p>
-                <p>Time: Coming soon</p>                
-                </div>
-                <div class = "cellims" style="width:45%;float:right;overflow:auto">
-                <h2>speakers</h2>
-                <a href="http://web.stanford.edu/~icard/" style="position:relative; display:block">Thomas Icard</a>
-                 Stanford University
-                <br>
-                <img src="../assets/custom_images/Icard.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-                <br>
-                <a href="http://www.zenna.org/"  style="position:relative; display:block">Zenna Tavares</a> Basis, Columbia University
-                <img src="../assets/custom_images/Tavares.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-                <br>
-                <a href="https://elc-lab-ucsd.com/" style="position:relative; display:block">Caren Walker</a> 
-                UCSD
-                <br>
-                <img src="../assets/custom_images/caren_walker.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-                </div>
-            </div>
-        </div>
-
-
 
         <div class="section">
             <div class="bead"> </div>
             <div class="content">
                 <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
-                <h1>Language</h1>
+                <h1>language seminar</h1>
                 <br>
                 <br>
                 <p>Date: July, coming soon.</p>
@@ -133,7 +104,7 @@ permalink: /schedule/
 
              <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
 
-                <h1>Language</h1>
+                <h1>perception and action seminar</h1>
                 <br>
                 <br>
                 <p>Date: July, coming soon.</p>
@@ -180,7 +151,7 @@ permalink: /schedule/
 
              <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
 
-                <h1>Memory Seminar</h1>
+                <h1>memory seminar</h1>
                 <br>
                 <br>
                 <p>Date: July, coming soon.</p>
