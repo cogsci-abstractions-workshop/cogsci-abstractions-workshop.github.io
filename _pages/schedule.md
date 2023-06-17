@@ -180,7 +180,7 @@ permalink: /schedule/
                  <a href="https://sites.google.com/view/alexatompary"  style="position:relative; display:block">Alexa Tompary</a>
                 Drexel
                 <br>
-                <img src="../assets/custom_images/tompary.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                <img src="../assets/custom_images/Tompary.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
 
