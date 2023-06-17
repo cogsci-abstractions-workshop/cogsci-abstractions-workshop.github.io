@@ -24,31 +24,34 @@ social: false  # includes social icons at the bottom of the page
 </p>
 </div> -->
 
-<div>
+<!-- <div>
 <img src="assets/custom_images/landing_page.png" width="80%" style="margin-left:10%; margin-right:10%">
-</div>
+</div> -->
 
 <div id="container-header">
 
-<div style="text-align: center;"><p><h3>Drawing is a powerful technology for...</h3></p></div>
-<div style="margin-top: -15px; text-align: center;"><p><h3><span id="typing-text"></span></h3></p></div>
+<div style="text-align: center;"><p><h3>How does the mind discover useful abstractions?</h3></p></div>
+<!-- <div style="margin-top: -15px; text-align: center;"><p><h3><span id="typing-text"></span></h3></p></div> -->
 </div>
 
 <div>
-<p>While drawings have long provided inspiration to researchers in many areas of cognitive science,
-including psychology, artificial intelligence, and neuroscience,
-these communities have not generally had opportunities to interact and share insights.
-At <a href="https://cognitivesciencesociety.org/cogsci-2022/">CogSci 2022</a>, we bring these perspectives together.</p>
+<p>Abstraction enables humans to distill a cascade of sensory experiences into a useful format for making sense of the world and generalizing to new contexts. However, because abstraction manifests in human cognition in so many ways, individual research communities have often studied specific forms of abstraction under domain-specific assumptions.
 
-<p>This workshop will explore the question of how humans use drawings to communicate knowledge, catalyzing new opportunities for multidisciplinary collaboration.<p>
+At <a href="https://cognitivesciencesociety.org/cogsci-2023/">CogSci 2023</a>, we bring together perspectives that cut across these boundaries.</p>
+
+<p>The goal of this workshop is to discuss unifying principles governing how humans learn, discover, and use abstractions in different domains.<p>
+
 <p>We will be using a "flipped" workshop format:<p>
 <ul>
 
-<li><b>Before CogSci (Virtual)</b>. Join us for 3 virtual seminars each highlighting insights from Machine Learning, Neuroscience, and Developmental Science, respectively.</li>
-<li><b>At CogSci (Toronto)</b>. Join us for a poster session and discussion in-person in Toronto.</li></ul></p>
+<li><b>Before CogSci (Virtual)</b>. Join us for 4 virtual seminars discussing the role of abstraction in Causal Reasoning, Language, Perception and Action, and Memory.</li>
+<li><b>At CogSci (Sydney, Australia) on July </b>. Join us for a live panel and in-person discussion in Sydney.</li></ul></p>
 
 <p>View the full workshop description <a href="https://cognitivesciencesociety.org/wp-content/uploads/2022/04/Paper-ID-1270-cogsci22a-sub1270-i10.pdf">here</a>.
-See the schedule of virtual seminars <a href = "https://images2symbols.github.io/schedule/">here</a>.
+
+See the schedule of virtual seminars <a href = "https://cogsci-abstractions-workshop.github.io/schedule/">here</a>.
+
+<strong>RSVP to the virtual and in-person workshops <a href = "https://images2symbols.github.io/schedule/">here</a>.
 </p>
 
 <!-- <div style="text-align: center;">
@@ -57,9 +60,9 @@ See the schedule of virtual seminars <a href = "https://images2symbols.github.io
 </p>
 </div> -->
 
-<div>
+<!-- <div>
 Feel free to contact the organizers at: <a href="images2symbols@gmail.com">images2symbols@gmail.com</a>.
-</div>
+</div> -->
 
 <div style="width: 100%">
 <ul>
@@ -72,27 +75,27 @@ Feel free to contact the organizers at: <a href="images2symbols@gmail.com">image
 </div>
 
 <div style="float: left; margin: 10px">
-<a href="https://hollyhuey.github.io/">
+<a href="https://www.mattarlab.com/">
   <img src="assets/custom_images/HueyH_photo.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://hollyhuey.github.io/"><b>Holly Huey</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>UCSD</p></span>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://www.mattarlab.com/"><b>Marcelo Mattar</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>NYU</p></span>
 </div>
 
 <div style="float: left; margin: 10px">
-<a href="https://kushinm.github.io/">
-  <img src="assets/custom_images/MukherjeeK_photo.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+<a href="https://www.waikeenvong.com/">
+  <img src="assets/custom_images/wai_keen_vong.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://kushinm.github.io/"><b>Kushin Mukherjee</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>UW Madison</p></span>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://www.waikeenvong.com/"><b>Wai Keen Vong</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>NYU</p></span>
 </div>
 
 <div style="float: left; margin: 10px">
-<a href="http://concepts.psych.wisc.edu/?page_id=73">
-  <img src="assets/custom_images/Timothy-Rogers.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+<a href="https://web.mit.edu/zyzzyva/www/academic.html">
+  <img src="assets/custom_images/LioWong_photo.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="http://concepts.psych.wisc.edu/?page_id=73"><b>Timothy Rogers</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>UW Madison</p></span>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://web.mit.edu/zyzzyva/www/academic.html"><b>Lio Wong</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>MIT</p></span>
 </div>
 </ul>
 </div>
