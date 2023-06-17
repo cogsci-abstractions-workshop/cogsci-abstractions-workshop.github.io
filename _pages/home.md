@@ -30,7 +30,7 @@ social: false  # includes social icons at the bottom of the page
 
 <div id="container-header">
 
-<div style="text-align: center;"><p><h3>How does the mind discover useful abstractions?</h3></p></div>
+<div style="text-align: center;"><p><h2>How does the mind discover useful abstractions?</h2></p></div>
 <!-- <div style="margin-top: -15px; text-align: center;"><p><h3><span id="typing-text"></span></h3></p></div> -->
 </div>
 
@@ -51,7 +51,7 @@ At <a href="https://cognitivesciencesociety.org/cogsci-2023/">CogSci 2023</a>, w
 
 <p>See the schedule of virtual seminars <a href = "https://cogsci-abstractions-workshop.github.io/schedule/">here</a>.</p>
 
-<p><strong>RSVP to the virtual and in-person workshops <a href = "https://images2symbols.github.io/schedule/">here</a>.</strong>
+<p><strong>Please RSVP to the virtual and in-person workshops <a href = "https://forms.gle/4Z2kDMbonY4kR4P77">here</a>.</strong>
 </p>
 
 <!-- <div style="text-align: center;">
