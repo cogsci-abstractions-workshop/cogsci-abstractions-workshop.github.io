@@ -45,7 +45,7 @@ At <a href="https://cognitivesciencesociety.org/cogsci-2023/">CogSci 2023</a>, w
 <ul>
 
 <li><b>Before CogSci (Virtual)</b>. Join us for 4 virtual seminars discussing the role of abstraction in Causal Reasoning, Language, Perception and Action, and Memory.</li>
-<li><b>At CogSci (Sydney, Australia) on July </b>. Join us for a live panel and in-person discussion in Sydney.</li></ul></p>
+<li><b>At CogSci (Sydney, Australia) on July</b>. Join us for a live panel and in-person discussion in Sydney.</li></ul></p>
 
 <p>View the full workshop description <a href="https://cognitivesciencesociety.org/wp-content/uploads/2022/04/Paper-ID-1270-cogsci22a-sub1270-i10.pdf">here</a>.</p>
 

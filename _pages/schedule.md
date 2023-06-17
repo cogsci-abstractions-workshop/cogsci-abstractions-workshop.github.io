@@ -49,33 +49,23 @@ permalink: /schedule/
                 <a href="https://elc-lab-ucsd.com/" style="position:relative; display:block">Caren Walker</a> 
                 UCSD
                 <br>
-                <img src="../assets/custom_images/Walker.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                <img src="../assets/custom_images/caren_walker.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 </div>
             </div>
         </div>
 
 
 
-
-
-
-
-
         <div class="section">
             <div class="bead"> </div>
             <div class="content">
-
-
                 <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
-
                 <h1>Language</h1>
                 <br>
                 <br>
                 <p>Date: July, coming soon.</p>
                 <p>Time: Coming soon</p>    
                 </div>
-
-
                 <div class = "cellims" style="width:45%;float:right; position:relative;overflow:auto">
 
                 <h2>speakers</h2>
@@ -107,12 +97,6 @@ permalink: /schedule/
                 <br>
                 <img src="https://cpsc.yale.edu/sites/default/files/event-images/alane_suhr.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 </div>
-
-                 <br>
-                 <br>
-
-
-
             </div>
         </div>
 
@@ -150,14 +134,14 @@ permalink: /schedule/
 
                  <br>
 
-                 <a href="https://www.psych.ucla.edu/faculty-page/hongjing/"  style="position:relative; display:block">Hongjing Lu</strong></a>
+                 <a href="https://www.psych.ucla.edu/faculty-page/hongjing/"  style="position:relative; display:block">Hongjing Lu</a>
                 UCLA
                 <br>
                 <img src="https://www.psych.ucla.edu/wp-content/uploads/hongjing.picture.IMG_7671.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
 
-                <a href="https://markkho.github.io/" style="position:relative; display:block"Mark Ho</strong></a>
+                <a href="https://markkho.github.io/" style="position:relative; display:block"> Mark Ho</strong></a>
                 NYU
                 <br>
                 <img src="https://markkho.github.io/images/markkho.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
@@ -190,21 +174,21 @@ permalink: /schedule/
 
                 <br>
 
-                 <a href="https://annaleshinskaya.com/"  style="position:relative; display:block">Anna Leshinskaya</strong></a>
+                 <a href="https://annaleshinskaya.com/"  style="position:relative; display:block">Anna Leshinskaya</a>
                 UC Davis
                 <br>
                 <img src="https://annaleshinskaya.com/images/anna_headshot_02.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
 
-                 <a href="https://sites.google.com/view/alexatompary"  style="position:relative; display:block">Alexa Tompary</strong></a>
+                 <a href="https://sites.google.com/view/alexatompary"  style="position:relative; display:block">Alexa Tompary</a>
                 Drexel
                 <br>
                 <img src="../assets/custom_images/Tompary.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
 
-                <a href="https://www.jcrwhittington.com/" style="position:relative; display:block"James Whittington</strong></a>
+                <a href="https://www.jcrwhittington.com/" style="position:relative; display:block">James Whittington></a>
                 Stanford, Oxford
                 <br>
                 <img src="https://localist-images.azureedge.net/photos/41297553049693/square_300@2x/f2bc86c04960a57b3e7b1edb37e4e566eaf09e05.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
