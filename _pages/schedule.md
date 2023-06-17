@@ -29,25 +29,25 @@ permalink: /schedule/
             <div class="bead"> </div>
             <div class="content">
             <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
-                <h1> developmental science seminar</h1>
+                <h1>Causal Abstractions</h1>
                 <br>
                 <br>
-                <p>Date: Monday, July 11</p>
-                <p>Time: 10AM-11:30AM PDT</p>                
-                <p><a href="https://www.youtube.com/watch?v=0kyJlfSgvYQ&list=PL2_Vc3j_d7HPHojt9q2pP8A3AM_pIGy7C&index=1" style="position:relative; display:block">Link to recordings</a></p>
+                <p>Date: July, coming soon.</p>
+                <p>Time: Coming soon</p>                
                 </div>
                 <div class = "cellims" style="width:45%;float:right;overflow:auto">
                 <h2>speakers</h2>
-                <a href="https://as.nyu.edu/content/nyu-as/as/faculty/Moira-Dillon.html" style="position:relative; display:block">Moira Dillon<strong> (Chair)</strong> </a>
-                NYU
+                <a href="http://web.stanford.edu/~icard/" style="position:relative; display:block">Thomas Icard</a>
+                 Stanford University
                 <br>
-                <img src="https://as.nyu.edu/content/dam/nyu-as/faculty/images/MoiraDillon.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                <img src="../assets/custom_images/Icard.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 <br>
-                 <a href="https://www.brialong.com/"  style="position:relative; display:block">Bria Long <strong> (Speaker) </strong></a> Stanford University
-                <img src="https://static.wixstatic.com/media/a22a3d_df9ff86d4dff4b428e08f450332aa4f2~mv2_d_2336_2827_s_2.jpg/v1/crop/x_134,y_164,w_2110,h_2107/fill/w_205,h_205,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/profile2.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-                 <br>
-                <a href="https://people.coe.uga.edu/logan-fiorella/" style="position:relative; display:block">Logan Fiorella<strong> (Speaker)</strong> </a>  University of Georgia
-                <img src="../assets/custom_images/FiorellaL_photo.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                <a href="http://www.zenna.org/"  style="position:relative; display:block">Zenna Tavares</a> Basis, Columbia University
+                <img src="../assets/custom_images/Tavares.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                
+                <br>
+                <a href="https://elc-lab-ucsd.com/" style="position:relative; display:block">Caren Walker</strong> </a> UCSD
+                <img src="../assets/custom_images/Walker.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 </div>
             </div>
         </div>
@@ -66,13 +66,11 @@ permalink: /schedule/
 
                 <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
 
-                <h1>artificial intelligence seminar</h1>
+                <h1>Language Seminar</h1>
                 <br>
                 <br>
-                <p>Date: Tuesday, July 12</p>
-                <p>Time: 7:30AM-9AM PDT</p>
-                <p><a href="https://www.youtube.com/watch?v=2G4WNxSRvsE&list=PL2_Vc3j_d7HPHojt9q2pP8A3AM_pIGy7C&index=2" style="position:relative; display:block">Link to recordings</a></p>
-
+                <p>Date: July, coming soon.</p>
+                <p>Time: Coming soon</p>    
                 </div>
 
 
@@ -80,37 +78,34 @@ permalink: /schedule/
 
                 <h2>speakers</h2>
 
-                <a href="https://research.google/people/105004/" style="position:relative; display:block">David Ha <strong> (Chair)</strong> </a>
-                Google
+                <a href="https://www.mit.edu/~jda/" style="position:relative; display:block">Jacob Andreas</strong> </a>
+                MIT
                 <br>
-                <img src="http://eyeofestival.com/wp-content/uploads/2017/12/DavidHa.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                <img src="https://www.mit.edu/~jda/figs/head_small.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                 <br>
 
-                 <a href="https://yulia.gryaditskaya.com/" style="position:relative; display:block">Yulia Gryaditskaya <strong> (Speaker) </strong> </a>
-                 University of Surrey
-                <img src="https://yulia.gryaditskaya.com/Me_new.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                 <a href="https://abcarstensen.com/" style="position:relative; display:block">Alexandra Cartensen</a>
+                 UCSD
+                <img src="https://abcarstensen.github.io/images/profile.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
 
 
+                <a href="https://rdhawkins.com/" style="position:relative; display:block">Robert Hawkins</a>
+                Princeton
+                <img src="https://rxdhawkins.files.wordpress.com/2019/12/2efa8952-50ee-4bb5-8f5f-f3eb14752dfe_1_201_a-e1575951441133.jpeg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
+                 <br>
 
-                <a href="https://web.mit.edu/zyzzyva/www/academic.html" style="position:relative; display:block">Cathy Wong<strong> (Speaker)</strong></a>
-                MIT
+                <a href="https://www.alanesuhr.com/" style="position:relative; display:block">Alane Suhr</a>
+                UC Berkeley
                 <br>
-                <img src="https://web.mit.edu/zyzzyva/www/images/CathyWong_profile.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-
+                <img src="https://cpsc.yale.edu/sites/default/files/event-images/alane_suhr.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 </div>
 
                  <br>
                  <br>
-
-
-
-
-
-
 
 
 

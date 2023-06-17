@@ -47,11 +47,11 @@ At <a href="https://cognitivesciencesociety.org/cogsci-2023/">CogSci 2023</a>, w
 <li><b>Before CogSci (Virtual)</b>. Join us for 4 virtual seminars discussing the role of abstraction in Causal Reasoning, Language, Perception and Action, and Memory.</li>
 <li><b>At CogSci (Sydney, Australia) on July </b>. Join us for a live panel and in-person discussion in Sydney.</li></ul></p>
 
-<p>View the full workshop description <a href="https://cognitivesciencesociety.org/wp-content/uploads/2022/04/Paper-ID-1270-cogsci22a-sub1270-i10.pdf">here</a>.
+<p>View the full workshop description <a href="https://cognitivesciencesociety.org/wp-content/uploads/2022/04/Paper-ID-1270-cogsci22a-sub1270-i10.pdf">here</a>.</p>
 
-See the schedule of virtual seminars <a href = "https://cogsci-abstractions-workshop.github.io/schedule/">here</a>.
+<p>See the schedule of virtual seminars <a href = "https://cogsci-abstractions-workshop.github.io/schedule/">here</a>.</p>
 
-<strong>RSVP to the virtual and in-person workshops <a href = "https://images2symbols.github.io/schedule/">here</a>.
+<p><strong>RSVP to the virtual and in-person workshops <a href = "https://images2symbols.github.io/schedule/">here</a>.</strong>
 </p>
 
 <!-- <div style="text-align: center;">
@@ -76,7 +76,7 @@ Feel free to contact the organizers at: <a href="images2symbols@gmail.com">image
 
 <div style="float: left; margin: 10px">
 <a href="https://www.mattarlab.com/">
-  <img src="assets/custom_images/HueyH_photo.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  <img src="assets/custom_images/MarceloMattar_photo.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://www.mattarlab.com/"><b>Marcelo Mattar</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>NYU</p></span>
