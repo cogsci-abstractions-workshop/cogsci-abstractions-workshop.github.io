@@ -33,7 +33,7 @@ permalink: /schedule/
                 <br>
                 <br>
                 <p>Date: Wednesday, July 5</p>
-                <p>Time: 3pm PDT (6pm EDT)</p>
+                <p>Time: 3pm-4pm PDT (6pm-7pm EDT)</p>
                 <p><a href="https://nyu.zoom.us/meeting/register/tJYqdOqqqTsjGtcEOFpOxwyuqPjh7aa85NqB">Register</a></p>
                 </div>
             
@@ -65,7 +65,7 @@ permalink: /schedule/
                 <br>
                 <br>
                 <p>Date: Wednesday, July 12</p>
-                <p>Time: 9am PDT (12pm EDT)</p>
+                <p>Time: 9am-10am PDT (12pm-1pm EDT)</p>
                 <p><a href="https://nyu.zoom.us/meeting/register/tJ0od-6rqjkpE9ycY_dQ6c4LAQ2RQGkvaZ_w">Register</a></p>
                 </div>
                 <div class = "cellims" style="width:45%;float:right;overflow:auto">
@@ -111,7 +111,7 @@ permalink: /schedule/
                 <br>
                 <br>
                 <p>Date: Thursday, July 20</p>
-                <p>Time: 9am PDT (12pm EDT)</p>
+                <p>Time: 9am-10am PDT (12pm-1pm EDT)</p>
                 <p><a href="https://nyu.zoom.us/meeting/register/tJcvduGvrzIvGN0bLqec8P95zdr8OC1ptu0Z">Register</a></p>
 
                 </div>
@@ -154,7 +154,7 @@ permalink: /schedule/
                 <br>
                 <br>
                 <p>Date: Thursday, July 20</p>
-                <p>Time: 12pm PDT (3pm EDT)</p>    
+                <p>Time: 12pm-1pm PDT (3pm-4pm EDT)</p>    
                 <p><a href="https://nyu.zoom.us/meeting/register/tJcscOqhrzwiE92XYdxdOfBj2Sbd_sljujR6">Register</a></p>
                 </div>
                 <div class = "cellims" style="width:45%;float:right;overflow:auto">
