@@ -44,14 +44,21 @@ At <a href="https://cognitivesciencesociety.org/cogsci-2023/">CogSci 2023</a>, w
 <p>We will be using a "flipped" workshop format:<p>
 <ul>
 
-<li><b>Before CogSci (Virtual)</b>. Join us for 4 virtual seminars discussing the role of abstraction in Causal Reasoning, Language, Perception and Action, and Memory.</li>
+<li><b>Before CogSci (Virtual)</b>. Join us for 4 virtual seminars discussing the role of abstraction in Causality, Perception/Action, Language, and Memory.</li>
 <li><b>At CogSci (Sydney, Australia) on July</b>. Join us for a live panel and in-person discussion in Sydney.</li></ul></p>
 
-<p>View the full workshop description <a href="https://cognitivesciencesociety.org/wp-content/uploads/2022/04/Paper-ID-1270-cogsci22a-sub1270-i10.pdf">here</a>.</p>
+<p>View the full workshop description <a href="assets/pdf/cogsci-2023-abstractions-workshop-proposal.pdf">here</a>.</p>
 
 <p>See the schedule of virtual seminars <a href = "https://cogsci-abstractions-workshop.github.io/schedule/">here</a>.</p>
 
-<p><strong>Please RSVP to the virtual and in-person workshops <a href = "https://forms.gle/4Z2kDMbonY4kR4P77">here</a>.</strong>
+<p><strong>RSVP to the virtual workshops here:</strong>
+<ul>
+<li><a href="https://nyu.zoom.us/meeting/register/tJYqdOqqqTsjGtcEOFpOxwyuqPjh7aa85NqB">Causal abstractions</a>, Wednesday, July 5 at 3pm PDT (6pm EDT)</li>
+<li><a href="https://nyu.zoom.us/meeting/register/tJ0od-6rqjkpE9ycY_dQ6c4LAQ2RQGkvaZ_w">Perception and Action</a>, Wednesday, July 12 at 9am PDT (12pm EDT)</li>
+<li><a href="https://nyu.zoom.us/meeting/register/tJcvduGvrzIvGN0bLqec8P95zdr8OC1ptu0Z">Language</a>, Thursday, July 20 at 9am PDT (12pm EDT)</li>
+<li><a href="https://nyu.zoom.us/meeting/register/tJcscOqhrzwiE92XYdxdOfBj2Sbd_sljujR6">Memory</a>, Thursday, July 20, at 12pm PDT (3pm EDT)</li>
+</ul>
+
 </p>
 
 <!-- <div style="text-align: center;">

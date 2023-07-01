@@ -1,3 +1,3 @@
-This is the webpage for the images2symbols workshop
+This is the webpage for the CogSci 2023 workshop "How does the mind discover useful abstractions?"
 
-[site](https://images2symbols.github.io)
+[site](https://cogsci-abstractions-workshop.github.io)

@@ -17,7 +17,7 @@ permalink: /seminar/
 </div>
 
 <div>
-<p>Before CogSci 2023, we will be hosting <strong>four virtual seminars</strong> on abstraction with a special focus on Causality, Language, Memory, and Perception and Action. These talks will be streamed online and for free, allowing attendees to fully experience this component of the workshop from anywhere in the world. These talks will also be recorded and available online for asynchronous viewing. See Schedule for more details.</p>
+<p>Before CogSci 2023, we will be hosting <strong>four virtual seminars</strong> on abstraction with a special focus on Causality, Perception/Action, Language and Memory. These talks will be streamed online via Zoom for free, allowing attendees to fully experience this component of the workshop from anywhere in the world. These talks will also be recorded and available online for asynchronous viewing afterwards. See the <a href="../schedule/">Schedule</a> for more details and registration links.</p>
 </div>
 
 <br>
@@ -28,7 +28,7 @@ permalink: /seminar/
 </div>
 
 <div>
-<p> At the CogSci conference, we will present a video recap of our virtual seminars, host a hybrid panel discussion, and hold small-group discussions. Schedule to come.</p>
+<p> At the CogSci conference, we will present a video recap of our virtual seminars, host a hybrid panel discussion, and hold small-group discussions. Schedule for the day to come.</p>
 
 <!-- <p> <ul> 
 

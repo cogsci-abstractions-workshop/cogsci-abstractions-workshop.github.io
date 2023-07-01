@@ -32,8 +32,9 @@ permalink: /schedule/
                 <h1>casual abstractions seminar</h1>
                 <br>
                 <br>
-                <p>Date: July, coming soon.</p>
-                <p>Time: Coming soon</p>                
+                <p>Date: Wednesday, July 5</p>
+                <p>Time: 3pm PDT (6pm EDT)</p>
+                <p><a href="https://nyu.zoom.us/meeting/register/tJYqdOqqqTsjGtcEOFpOxwyuqPjh7aa85NqB">Register</a></p>
                 </div>
             
             <div class = "cellims" style="width:45%;float:right;overflow:auto">
@@ -47,71 +48,26 @@ permalink: /schedule/
                 <img src="../assets/custom_images/Tavares.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 
                 <br>
-                <a href="https://elc-lab-ucsd.com/" style="position:relative; display:block">Caren Walker</a> 
-                UCSD
+                <a href="https://cicl.stanford.edu" style="position:relative; display:block">Tobias Gerstenberg</a> 
+                Stanford University
                 <br>
-                <img src="../assets/custom_images/caren_walker.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                <img src="../assets/custom_images/tobias_gerstenberg.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 </div>
             </div>
         </div>
-
-
-        <div class="section">
-            <div class="bead"> </div>
-            <div class="content">
-                <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
-                <h1>language seminar</h1>
-                <br>
-                <br>
-                <p>Date: July, coming soon.</p>
-                <p>Time: Coming soon</p>    
-                </div>
-                <div class = "cellims" style="width:45%;float:right; position:relative;overflow:auto">
-
-                <h2>speakers</h2>
-
-                <a href="https://www.mit.edu/~jda/" style="position:relative; display:block">Jacob Andreas</a>
-                MIT
-                <br>
-                <img src="https://www.mit.edu/~jda/figs/head_small.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-                <br>
-
-                 <a href="https://abcarstensen.com/" style="position:relative; display:block">Alexandra Cartensen</a>
-                 UCSD
-                 <br>
-                <img src="../assets/custom_images/cartensen.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-                 <br>
-                <a href="https://rdhawkins.com/" style="position:relative; display:block">Robert Hawkins</a>
-                Princeton
-                <br>
-                <img src="https://rxdhawkins.files.wordpress.com/2019/12/2efa8952-50ee-4bb5-8f5f-f3eb14752dfe_1_201_a-e1575951441133.jpeg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-
-                 <br>
-
-                <a href="https://www.alanesuhr.com/" style="position:relative; display:block">Alane Suhr</a>
-                UC Berkeley
-                <br>
-                <img src="https://cpsc.yale.edu/sites/default/files/event-images/alane_suhr.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-                </div>
-            </div>
-        </div>
-
-
 
         <div class="section">
             <div class="bead"> </div>
             <div class="content">
 
              <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
-
                 <h1>perception and action seminar</h1>
                 <br>
                 <br>
-                <p>Date: July, coming soon.</p>
-                <p>Time: Coming soon</p>    
+                <p>Date: Wednesday, July 12</p>
+                <p>Time: 9am PDT (12pm EDT)</p>
+                <p><a href="https://nyu.zoom.us/meeting/register/tJ0od-6rqjkpE9ycY_dQ6c4LAQ2RQGkvaZ_w">Register</a></p>
                 </div>
-
-
                 <div class = "cellims" style="width:45%;float:right;overflow:auto">
 
                 <h2>speakers</h2>
@@ -145,26 +101,68 @@ permalink: /schedule/
             </div>
         </div>
 
+
         <div class="section">
             <div class="bead"> </div>
             <div class="content">
 
              <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
+                <h1>language seminar</h1>
+                <br>
+                <br>
+                <p>Date: Thursday, July 20</p>
+                <p>Time: 9am PDT (12pm EDT)</p>
+                <p><a href="https://nyu.zoom.us/meeting/register/tJcvduGvrzIvGN0bLqec8P95zdr8OC1ptu0Z">Register</a></p>
 
+                </div>
+                <div class = "cellims" style="width:45%;float:right; position:relative;overflow:auto">
+
+                <h2>speakers</h2>
+
+                <a href="https://www.mit.edu/~jda/" style="position:relative; display:block">Jacob Andreas</a>
+                MIT
+                <br>
+                <img src="https://www.mit.edu/~jda/figs/head_small.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                <br>
+
+                 <a href="https://abcarstensen.com/" style="position:relative; display:block">Alexandra Cartensen</a>
+                 UCSD
+                 <br>
+                <img src="../assets/custom_images/cartensen.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                 <br>
+                <a href="https://rdhawkins.com/" style="position:relative; display:block">Robert Hawkins</a>
+                Princeton
+                <br>
+                <img src="https://rxdhawkins.files.wordpress.com/2019/12/2efa8952-50ee-4bb5-8f5f-f3eb14752dfe_1_201_a-e1575951441133.jpeg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+
+                 <br>
+
+                <a href="https://www.alanesuhr.com/" style="position:relative; display:block">Alane Suhr</a>
+                UC Berkeley
+                <br>
+                <img src="https://cpsc.yale.edu/sites/default/files/event-images/alane_suhr.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="bead"> </div>
+            <div class="content">
+
+             <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
                 <h1>memory seminar</h1>
                 <br>
                 <br>
-                <p>Date: July, coming soon.</p>
-                <p>Time: Coming soon</p>    
+                <p>Date: Thursday, July 20</p>
+                <p>Time: 12pm PDT (3pm EDT)</p>    
+                <p><a href="https://nyu.zoom.us/meeting/register/tJcscOqhrzwiE92XYdxdOfBj2Sbd_sljujR6">Register</a></p>
                 </div>
-
-
                 <div class = "cellims" style="width:45%;float:right;overflow:auto">
 
                 <h2>speakers</h2>
 
                 <a href="http://www.chrisbaldassano.com/" style="position:relative; display:block">Chris Baldassano</a>
-                DeepMind
+                Columbia University
                 <br>
                 <img src="https://psychology.columbia.edu/sites/default/files/styles/cu_crop/public/content/unnamed.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
