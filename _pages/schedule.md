@@ -29,7 +29,7 @@ permalink: /schedule/
             <div class="bead"> </div>
             <div class="content">
             <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
-                <h1>casual abstractions seminar</h1>
+                <h1>causal abstractions seminar</h1>
                 <br>
                 <br>
                 <p>Date: Wednesday, July 5</p>
