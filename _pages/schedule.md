@@ -40,16 +40,16 @@ permalink: /schedule/
             <div class = "cellims" style="width:45%;float:right;overflow:auto">
                 <h2>speakers</h2>
                 <a href="http://web.stanford.edu/~icard/" style="position:relative; display:block">Thomas Icard</a>
-                 Stanford University
+                 Stanford
                 <br>
                 <img src="../assets/custom_images/Icard.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 <br>
-                <a href="http://www.zenna.org/"  style="position:relative; display:block">Zenna Tavares</a> Basis, Columbia University
+                <a href="http://www.zenna.org/"  style="position:relative; display:block">Zenna Tavares</a> Basis, Columbia
                 <img src="../assets/custom_images/Tavares.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 
                 <br>
                 <a href="https://cicl.stanford.edu" style="position:relative; display:block">Tobias Gerstenberg</a> 
-                Stanford University
+                Stanford
                 <br>
                 <img src="../assets/custom_images/tobias_gerstenberg.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 </div>
@@ -131,7 +131,7 @@ permalink: /schedule/
                 <img src="../assets/custom_images/cartensen.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                  <br>
                 <a href="https://rdhawkins.com/" style="position:relative; display:block">Robert Hawkins</a>
-                Princeton
+                UW-Madison
                 <br>
                 <img src="https://rxdhawkins.files.wordpress.com/2019/12/2efa8952-50ee-4bb5-8f5f-f3eb14752dfe_1_201_a-e1575951441133.jpeg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
@@ -162,7 +162,7 @@ permalink: /schedule/
                 <h2>speakers</h2>
 
                 <a href="http://www.chrisbaldassano.com/" style="position:relative; display:block">Chris Baldassano</a>
-                Columbia University
+                Columbia
                 <br>
                 <img src="https://psychology.columbia.edu/sites/default/files/styles/cu_crop/public/content/unnamed.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
