@@ -34,9 +34,9 @@ permalink: /seminar/
 
 <li>8:45-9:00: Welcome + opening remarks</li>
 <li>9:00-9:30: Causality opening statements: Tavares, Gerstenberg, Icard </li>
-<li>9:30-10:00: Causality + Perception/Action: small-group discussion </li>
-<li>10:00-10:30: Causality full-group discussion (chair: Vong)</li>
-<li>10:30-11:00: BREAK </li>
+<li>9:30-10:00: Causality full-group discussion (chair: Vong) </li>
+<li>10:00-10:30: BREAK </li>
+<li>10:30-11:00: Causality + Perception/Action: small-group discussion </li>
 <li>11:00-11:30: Perception/Action opening statements: Lu, Bear, Allen, Ho</li>
 <li>11:30-12:00: Perception/Action full-group discussion (chair: Fan)</li>
 <li>12:00-1:00: BREAK (Lunch)</li>
