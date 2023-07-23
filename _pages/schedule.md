@@ -127,7 +127,7 @@ permalink: /schedule/
                 <br>
 
                  <a href="https://abcarstensen.com/" style="position:relative; display:block">Alexandra Cartensen</a>
-                 UCSD
+                 Arizona State University
                  <br>
                 <img src="../assets/custom_images/cartensen.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                  <br>
