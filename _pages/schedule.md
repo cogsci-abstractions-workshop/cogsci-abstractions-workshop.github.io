@@ -44,7 +44,8 @@ permalink: /schedule/
                 <br>
                 <img src="../assets/custom_images/Icard.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 <br>
-                <a href="http://www.zenna.org/"  style="position:relative; display:block">Zenna Tavares</a> Basis, Columbia
+                <a href="http://www.zenna.org/"  style="position:relative; display:block">Zenna Tavares</a> Basis/Columbia
+                <br>
                 <img src="../assets/custom_images/Tavares.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
                 
                 <br>
