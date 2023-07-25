@@ -32,17 +32,15 @@ permalink: /seminar/
 
 <p> <ul> 
 
-<li>8:45-9:00: Welcome + opening remarks</li>
-<li>9:00-9:30: Causality opening statements: Tavares, Gerstenberg, Icard </li>
-<li>9:30-10:00: Causality full-group discussion (chair: Vong) </li>
+<li>8:30-8:45: Welcome + opening remarks</li>
+<li>8:45-9:30: Causality seminar: Tavares, Gerstenberg, Icard </li>
+<li>9:30-10:00: Causality: group discussion (chair: Vong) </li>
 <li>10:00-10:30: BREAK </li>
-<li>10:30-11:00: Causality + Perception/Action: small-group discussion </li>
-<li>11:00-11:30: Perception/Action opening statements: Lu, Bear, Allen, Ho</li>
-<li>11:30-12:00: Perception/Action full-group discussion (chair: Fan)</li>
-<li>12:00-1:00: BREAK (Lunch)</li>
-<li>1:00-1:30: Language opening statements: Andreas, Carstensen, Hawkins, Suhr</li>
-<li>1:30-2:00: Language + Memory: small-group discussion</li>
-<li>2:00-2:30: Language full-group discussion (chair: Wong)</li>
+<li>10:30-11:15: Perception/Action seminar: Lu, Bear, Allen, Ho </li>
+<li>11:15-11:45: Perception/Action: group discussion</li>
+<li>11:45-1:00: BREAK (Lunch)</li>
+<li>1:00-2:00: Language seminar: Andreas, Carstensen, Hawkins, Suhr</li>
+<li>2:00-2:30: Language group discussion (chair: Wong)</li>
 <li>2:30-3:00: BREAK </li>
 <li>3:00-3:30: Memory opening statements: Baldassano, Leshinskaya, Tompary, Whittington </li>
 <li>3:30-4:30: Panel discussion </li>
