@@ -34,7 +34,7 @@ permalink: /schedule/
                 <br>
                 <p>Date: Wednesday, July 5</p>
                 <p>Time: 3pm-4pm PDT (6pm-7pm EDT)</p>
-                <p><a href="https://nyu.zoom.us/meeting/register/tJYqdOqqqTsjGtcEOFpOxwyuqPjh7aa85NqB">Register</a></p>
+                <p><a href="https://www.youtube.com/watch?v=BJabQ6olvEE">Recording</a></p>
                 </div>
             
             <div class = "cellims" style="width:45%;float:right;overflow:auto">
@@ -67,7 +67,7 @@ permalink: /schedule/
                 <br>
                 <p>Date: Wednesday, July 12</p>
                 <p>Time: 9am-10am PDT (12pm-1pm EDT)</p>
-                <p><a href="https://nyu.zoom.us/meeting/register/tJ0od-6rqjkpE9ycY_dQ6c4LAQ2RQGkvaZ_w">Register</a></p>
+                <p><a href="https://www.youtube.com/watch?v=ENs4hTCg30g">Recording</a></p>
                 </div>
                 <div class = "cellims" style="width:45%;float:right;overflow:auto">
 
@@ -113,7 +113,7 @@ permalink: /schedule/
                 <br>
                 <p>Date: Thursday, July 20</p>
                 <p>Time: 9am-10am PDT (12pm-1pm EDT)</p>
-                <p><a href="https://nyu.zoom.us/meeting/register/tJcvduGvrzIvGN0bLqec8P95zdr8OC1ptu0Z">Register</a></p>
+                <p><a href="https://www.youtube.com/watch?v=by8_tizOHOA">Recording</a></p>
 
                 </div>
                 <div class = "cellims" style="width:45%;float:right; position:relative;overflow:auto">
@@ -156,7 +156,7 @@ permalink: /schedule/
                 <br>
                 <p>Date: Thursday, July 20</p>
                 <p>Time: 12pm-1pm PDT (3pm-4pm EDT)</p>    
-                <p><a href="https://nyu.zoom.us/meeting/register/tJcscOqhrzwiE92XYdxdOfBj2Sbd_sljujR6">Register</a></p>
+                <p><a href="https://www.youtube.com/watch?v=n3TwNYv_XHs">Recording</a></p>
                 </div>
                 <div class = "cellims" style="width:45%;float:right;overflow:auto">
 
