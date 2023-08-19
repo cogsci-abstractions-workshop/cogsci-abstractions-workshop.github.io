@@ -49,7 +49,7 @@ At <a href="https://cognitivesciencesociety.org/cogsci-2023/">CogSci 2023</a>, w
 
 <p>View the full workshop description <a href="assets/pdf/cogsci-2023-abstractions-workshop-proposal.pdf">here</a>.</p>
 
-<p>See the schedule of virtual seminars <a href = "https://cogsci-abstractions-workshop.github.io/schedule/">here</a>.</p>
+<p>The recordings from our Zoom seminars are available <a href = "https://cogsci-abstractions-workshop.github.io/schedule/">here</a>.</p>
 
 <p><strong>RSVP to the virtual workshops here:</strong>
 <ul>
